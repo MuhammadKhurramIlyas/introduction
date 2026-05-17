@@ -1,21 +1,13 @@
-package main
+package calc
 
-import (
-	"fmt"
-	"introduction/calc"
-)
-
-func MainMain() int {
-	fmt.Println("Version 7.0.0")
-	return 70000
+func CalcCustom() int {
+	return 100
 }
 
-func main() {
-	defer fmt.Println("deffer the running of this print...")
-	fmt.Println("Main is running...")
-	fmt.Println(calc.CalcCustom())
+func Newfunction1() int {
+	return 200
+}
 
-	fmt.Println(calc.Newfunction1())
-
-	fmt.Println(calc.Newfunction2())
+func Newfunction2() int {
+	return 400
 }
