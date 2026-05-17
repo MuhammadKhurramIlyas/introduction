@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(calc.CalcCustom())
 
 	fmt.Append(calc.Newfunction1())
+
+	fmt.Append(calc.Newfunction2())
 }
