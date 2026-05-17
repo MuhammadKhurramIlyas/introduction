@@ -1,4 +1,4 @@
-package calc
+package introduction
 
 func CalcCustom() int {
 	return 400
