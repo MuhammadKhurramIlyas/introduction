@@ -6,8 +6,8 @@ import (
 )
 
 func MainMain() int {
-	fmt.Println("Version 6.0.0")
-	return 60000
+	fmt.Println("Version 7.0.0")
+	return 70000
 }
 
 func main() {
