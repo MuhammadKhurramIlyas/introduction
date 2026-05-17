@@ -1,3 +1,3 @@
-module github.com/MuhammadKhurramIlyas/introduction/v1
+module github.com/MuhammadKhurramIlyas/introduction
 
 go 1.26.3
